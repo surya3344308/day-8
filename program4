@@ -1,0 +1,10 @@
+#include <stdio.h>
+int csa(){
+return 10*5;
+}
+int main()
+{
+    int d= csa();
+    printf("%d ",d);
+    return 0;
+}
